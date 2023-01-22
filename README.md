@@ -5,7 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pinak-datta" alt="pinak-datta" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/pinakdatta2002" target="blank"><img src="https://img.shields.io/twitter/follow/pinakdatta2002?logo=twitter&style=for-the-badge" alt="pinakdatta2002" /></a> </p>
+<p align="left">    <a href="https://twitter.com/pinakdatta2002"><img alt="twitter" src="https://img.shields.io/badge/twitter-00ACEE?style=for-the-badge&logo=twitter&logoColor=white"></a>
+ </p>
 
 - 📝 I regularly write articles on [https://pinakdatta.hashnode.dev/](https://pinakdatta.hashnode.dev/)
 
