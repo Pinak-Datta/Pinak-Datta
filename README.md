@@ -22,4 +22,4 @@
 - [Complete Beginners Guide to Support Vector Machine(SVM)](https://pinakdatta.hashnode.dev/complete-beginners-guide-to-support-vector-machinesvm)
 - [Faded Image Colurisation using OpenCV](https://pinakdatta.hashnode.dev/faded-image-colourisation-using-opencv)
 - [Computer Vision: A Complete beginner's Guide](https://pinakdatta.hashnode.dev/computer-vision-a-complete-beginners-guide)
-- [Prediction Of Gold Prices using Machine Learning](https://pinakdatta.hashnode.dev/prediction-of-gold-prices-using-machine-learningA
+- [Prediction Of Gold Prices using Machine Learning](https://pinakdatta.hashnode.dev/prediction-of-gold-prices-using-machine-learning)
