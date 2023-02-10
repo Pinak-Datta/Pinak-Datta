@@ -17,8 +17,8 @@
 - ⚡ Fun fact: **I think I seldom crack witty jokes!**
 
 # Recent Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- HASHNODE_BLOG:START -->
+<!-- HASHNODE_BLOG:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
