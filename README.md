@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact: **I think I seldom crack witty jokes!**
 
-### Blogs posts
+### :books: Recent Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
