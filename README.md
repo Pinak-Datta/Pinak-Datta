@@ -18,8 +18,7 @@
 
 # Recent Blogs posts
 <!-- HASHNODE_BLOG:START -->
+- [Guide to Hyperparameter Optimization in Machine Learning](https://pinakdatta.hashnode.dev/maximizing-model-performance-an-in-depth-guide-to-hyperparameter-optimization-in-machine-learning)
 - [Handling Imbalanced Data in Machine Learning](https://pinakdatta.hashnode.dev/handling-imbalanced-data-in-machine-learning)
 - [Complete Beginners Guide to Support Vector Machine(SVM)](https://pinakdatta.hashnode.dev/complete-beginners-guide-to-support-vector-machinesvm)
 - [Faded Image Colurisation using OpenCV](https://pinakdatta.hashnode.dev/faded-image-colourisation-using-opencv)
-- [Computer Vision: A Complete beginner's Guide](https://pinakdatta.hashnode.dev/computer-vision-a-complete-beginners-guide)
-- [Prediction Of Gold Prices using Machine Learning](https://pinakdatta.hashnode.dev/prediction-of-gold-prices-using-machine-learning)
