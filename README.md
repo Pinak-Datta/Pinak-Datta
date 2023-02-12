@@ -16,9 +16,8 @@
 
 - ⚡ Fun fact: **I think I seldom crack witty jokes!**
 
-# Recent Blogs posts
+# Latest Blogs posts
 <!-- HASHNODE_BLOG:START -->
 - [Guide to Hyperparameter Optimization in Machine Learning](https://pinakdatta.hashnode.dev/maximizing-model-performance-an-in-depth-guide-to-hyperparameter-optimization-in-machine-learning)
 - [Handling Imbalanced Data in Machine Learning](https://pinakdatta.hashnode.dev/handling-imbalanced-data-in-machine-learning)
 - [Complete Beginners Guide to Support Vector Machine(SVM)](https://pinakdatta.hashnode.dev/complete-beginners-guide-to-support-vector-machinesvm)
-- [Faded Image Colurisation using OpenCV](https://pinakdatta.hashnode.dev/faded-image-colourisation-using-opencv)
