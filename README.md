@@ -18,6 +18,6 @@
 
 # Latest Blogs posts
 <!-- HASHNODE_BLOG:START -->
-- [Guide to Hyperparameter Optimization in Machine Learning](https://pinakdatta.hashnode.dev/maximizing-model-performance-an-in-depth-guide-to-hyperparameter-optimization-in-machine-learning)
-- [Handling Imbalanced Data in Machine Learning](https://pinakdatta.hashnode.dev/handling-imbalanced-data-in-machine-learning)
-- [Complete Beginners Guide to Support Vector Machine(SVM)](https://pinakdatta.hashnode.dev/complete-beginners-guide-to-support-vector-machinesvm)
+- [Python for Web Scraping](https://medium.com/@pinakdatta/python-for-web-scraping-extracting-insights-from-the-web-fd8e98d94b47)
+- [Python for Geospatial Analysis: Exploring GIS Librariesg](https://medium.com/@pinakdatta/python-for-geospatial-analysis-exploring-gis-libraries-b999669d3ee9)
+- [Semi-Supervised Learning in Machine Learning: Approaches and Applications](https://medium.com/@pinakdatta/semi-supervised-learning-in-machine-learning-approaches-and-applications-8f60fb45e9d6)
