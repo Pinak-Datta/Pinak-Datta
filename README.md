@@ -16,8 +16,9 @@
 
 - ⚡ Fun fact: **I think I seldom crack witty jokes!**
 
-# Latest Blogs posts
+# Latest Blogs
 <!-- HASHNODE_BLOG:START -->
+- [Exploring Data Science: Applications, Tools, and Techniques](https://medium.com/@pinakdatta/exploring-data-science-applications-tools-and-techniques-4326e361334d)
 - [Python for Web Scraping](https://medium.com/@pinakdatta/python-for-web-scraping-extracting-insights-from-the-web-fd8e98d94b47)
 - [Python for Geospatial Analysis: Exploring GIS Libraries](https://medium.com/@pinakdatta/python-for-geospatial-analysis-exploring-gis-libraries-b999669d3ee9)
 - [Semi-Supervised Learning in Machine Learning: Approaches and Applications](https://medium.com/@pinakdatta/semi-supervised-learning-in-machine-learning-approaches-and-applications-8f60fb45e9d6)
