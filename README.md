@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pinak Datta</h1>
-<h3 align="center">A Passionate Developer and Tech Writer from India</h3>
+<h3 align="center">A Python Developer and Tech Writer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pinak-datta&label=Profile%20views&color=0e75b6&style=flat" alt="pinak-datta" /> </p>
 
