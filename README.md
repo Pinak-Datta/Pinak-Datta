@@ -5,16 +5,18 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pinak-datta" alt="pinak-datta" /></a> </p>
 
-<p align="left">    <a href="https://twitter.com/pinakdatta2002"><img alt="twitter" src="https://img.shields.io/badge/twitter-00ACEE?style=for-the-badge&logo=twitter&logoColor=white"></a>
+
+
+
+ <p>
+  <a href="mailto:pinakdatta2002@gmail.com"> <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
+ <a href="https://www.linkedin.com/in/pinak-datta/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://pinakdatta.hashnode.dev/"><img alt="Hashnode-blog" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" ></a>
+   <a href="https://twitter.com/PinakDatta2002"><img alt="twitter" src="https://img.shields.io/badge/twitter-00ACEE?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="https://drive.google.com/file/d/1OgJw1KZcmXtYdkuyWr0xM9PBuAubAInp/view"><img alt="resume" src="https://img.shields.io/badge/Resume-FFAB4C?style=for-the-badge"></a>
+
  </p>
 
-- 📝 I regularly write articles on [https://pinakdatta.hashnode.dev/](https://pinakdatta.hashnode.dev/)
-
-- 📫 How to reach me **pinakdatta2002@gmail.com**
-
-- 📄 Resume Link : [https://drive.google.com/file/d/1uM5-DNY9-oi8BMItgVrfNd7kTborJtjm/view?usp=sharing](https://drive.google.com/file/d/1uM5-DNY9-oi8BMItgVrfNd7kTborJtjm/view?usp=sharing)
-
-- ⚡ Fun fact: **I think I seldom crack witty jokes!**
 
 # Latest Blogs
 <!-- HASHNODE_BLOG:START -->
