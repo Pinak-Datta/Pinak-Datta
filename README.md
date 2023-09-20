@@ -7,8 +7,9 @@ A Python Developer and CSE undergrad. Building Automation Tools and Training Mac
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pinak-datta&label=Profile%20views&color=0e75b6&style=flat" alt="pinak-datta" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pinak-datta" alt="pinak-datta" /></a> </p>
-
+<p>
+<img src="https://github-profile-trophy.vercel.app/?username=pinak-datta&no-bg=false&no-frame=false">
+</p>
 
 
 
