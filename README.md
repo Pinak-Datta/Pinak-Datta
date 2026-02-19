@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pinak Datta</h1>
 <img align="right" src="https://media0.giphy.com/media/XO8RMtRaK73isIt0i2/giphy.gif?cid=ecf05e471cacapm5kqnrcjeu83z9rd4dmq11t4gkaib3p9g2&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="150px" alt="hello-gif"/> 
 
-A Python Developer and CSE undergrad. Building Automation Tools and Training Machine Learning Models is my hobby! 
+A Data Governance Engineer at Conde Nast. 
 
 <!---<h3 align="center">A Python Developer and Tech Writer from India</h3>  -->
 
