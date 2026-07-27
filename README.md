@@ -7,8 +7,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/pinak-datta/">LinkedIn</a> ·
   <a href="https://medium.com/@pinakdatta">Medium</a> ·
-  <a href="https://pinakdatta.hashnode.dev/">Hashnode</a> ·
-  <a href="mailto:pinakdatta2002@gmail.com">Email</a>
+  <a href="https://pinakdatta.hashnode.dev/">Hashnode</a>
 </p>
 
 ---
