@@ -1,31 +1,55 @@
-<h1 align="center">Hi 👋, I'm Pinak Datta</h1>
-<img align="right" src="https://media0.giphy.com/media/XO8RMtRaK73isIt0i2/giphy.gif?cid=ecf05e471cacapm5kqnrcjeu83z9rd4dmq11t4gkaib3p9g2&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="150px" alt="hello-gif"/> 
+<h1 align="center">Pinak Datta</h1>
 
-A Data Governance Engineer at Conde Nast. 
-
-<!---<h3 align="center">A Python Developer and Tech Writer from India</h3>  -->
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pinak-datta&label=Profile%20views&color=0e75b6&style=flat" alt="pinak-datta" /> </p>
-
-<p>
-<img src="https://github-profile-trophy.vercel.app/?username=pinak-datta&no-bg=false&no-frame=false">
+<p align="center">
+  Data Governance Engineer at Condé Nast · Python developer · Open source contributor · Technical writer
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/pinak-datta/">LinkedIn</a> ·
+  <a href="https://medium.com/@pinakdatta">Medium</a> ·
+  <a href="https://pinakdatta.hashnode.dev/">Hashnode</a> ·
+  <a href="mailto:pinakdatta2002@gmail.com">Email</a>
+</p>
 
+---
 
- <p>
-  <a href="mailto:pinakdatta2002@gmail.com"> <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
- <a href="https://www.linkedin.com/in/pinak-datta/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://pinakdatta.hashnode.dev/"><img alt="Hashnode-blog" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" ></a>
-   <a href="https://twitter.com/PinakDatta2002"><img alt="twitter" src="https://img.shields.io/badge/twitter-00ACEE?style=for-the-badge&logo=twitter&logoColor=white"></a>
-<a href="https://drive.google.com/file/d/1OgJw1KZcmXtYdkuyWr0xM9PBuAubAInp/view"><img alt="resume" src="https://img.shields.io/badge/Resume-FFAB4C?style=for-the-badge"></a>
+I work on data governance, metadata, data quality, and automation with a practical engineering lens. I enjoy building Python tools that make data systems easier to trust, operate, and explain.
 
- </p>
+My work sits around the intersection of data platforms, developer tooling, and documentation: the parts of engineering where clarity and reliability matter just as much as code.
 
+### Focus Areas
 
-# Latest Blogs
-<!-- HASHNODE_BLOG:START -->
-- [Exploring Data Science: Applications, Tools, and Techniques](https://medium.com/@pinakdatta/exploring-data-science-applications-tools-and-techniques-4326e361334d)
-- [Python for Web Scraping](https://medium.com/@pinakdatta/python-for-web-scraping-extracting-insights-from-the-web-fd8e98d94b47)
-- [Python for Geospatial Analysis: Exploring GIS Libraries](https://medium.com/@pinakdatta/python-for-geospatial-analysis-exploring-gis-libraries-b999669d3ee9)
-- [Semi-Supervised Learning in Machine Learning: Approaches and Applications](https://medium.com/@pinakdatta/semi-supervised-learning-in-machine-learning-approaches-and-applications-8f60fb45e9d6)
+- Data governance, metadata, data quality, and ownership workflows
+- Python CLIs, internal automation, validation, and API integrations
+- Data engineering reliability: freshness, idempotency, observability, and operational guardrails
+- Applied machine learning workflows, preprocessing, and technical writing
+- Open source documentation and developer experience
+
+### Selected Work
+
+| Project | Description |
+| --- | --- |
+| [envgap](https://github.com/Pinak-Datta/envgap) | Finds gaps between `.env`, `.env.example`, shell variables, and Python code. |
+| [wiz-craft](https://github.com/Pinak-Datta/wiz-craft) | CLI-based dataset preprocessing tool for machine learning workflows. |
+| [PypiMeter](https://github.com/Pinak-Datta/PypiMeter) | Streamlit app for PyPI package statistics and package insight exploration. |
+| [GSoD 2023 with conda](https://github.com/conda) | Documentation-focused open source work in the conda ecosystem. |
+
+### Writing
+
+I write about Python, data engineering, data governance, and machine learning systems.
+
+<!-- BLOG-POST-LIST:START -->
+- [Stop Trusting Input: Use Pydantic for Safer Python APIs, Configs, and More](https://medium.com/@pinakdatta/stop-trusting-input-use-pydantic-for-safer-python-apis-configs-and-more-6148c3ac063c)
+- [Why Your Python Data Pipeline Breaks on Reruns - And How Idempotency Fixes It](https://medium.com/@pinakdatta/why-your-python-data-pipeline-breaks-on-reruns-and-how-idempotency-fixes-it-b9c13082435f)
+- [The Hidden Engineering Behind Reliable API Clients in Python](https://medium.com/@pinakdatta/the-hidden-engineering-behind-reliable-api-clients-in-python-74abde43d5df)
+- [You Have Metadata. But Are You Actually Using It?](https://medium.com/@pinakdatta/you-have-metadata-but-are-you-actually-using-it-437b31decabb)
+- [Understanding Data Freshness: Concepts, Challenges, and Practical Approaches](https://medium.com/@pinakdatta/understanding-data-freshness-concepts-challenges-and-practical-approaches-7c30c62a4121)
+<!-- BLOG-POST-LIST:END -->
+
+### Tech I Use Often
+
+`Python` · `SQL` · `Pandas` · `Streamlit` · `GitHub Actions` · `Data Quality` · `Metadata` · `APIs` · `Automation`
+
+---
+
+Open to conversations around data governance, Python tooling, technical writing, and open source documentation.

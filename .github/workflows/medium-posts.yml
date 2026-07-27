@@ -1,0 +1,26 @@
+name: Update Medium posts
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 3 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    name: Refresh latest Medium posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update writing section
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          comment_tag_name: "BLOG-POST-LIST"
+          feed_list: "https://medium.com/feed/@pinakdatta"
+          max_post_count: 5
+          template: "$newline- [$title]($url)"
+          commit_message: "Update latest Medium posts"
