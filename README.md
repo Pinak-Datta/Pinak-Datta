@@ -38,11 +38,11 @@ My work sits around the intersection of data platforms, developer tooling, and d
 I write about Python, data engineering, data governance, and machine learning systems.
 
 <!-- BLOG-POST-LIST:START -->
+- [The API Returned 200, but Half the Records Were Missing](https://medium.com/@pinakdatta/the-api-returned-200-but-half-the-records-were-missing-44dc0feb0222?source=rss-2d06e496565c------2)
 - [Stop Trusting Input: Use Pydantic for Safer Python APIs, Configs, and More](https://medium.com/@pinakdatta/stop-trusting-input-use-pydantic-for-safer-python-apis-configs-and-more-6148c3ac063c?source=rss-2d06e496565c------2)
 - [Why Your Python Data Pipeline Breaks on Reruns — And How Idempotency Fixes It](https://medium.com/@pinakdatta/why-your-python-data-pipeline-breaks-on-reruns-and-how-idempotency-fixes-it-b9c13082435f?source=rss-2d06e496565c------2)
 - [The Hidden Engineering Behind Reliable API Clients in Python](https://medium.com/@pinakdatta/the-hidden-engineering-behind-reliable-api-clients-in-python-74abde43d5df?source=rss-2d06e496565c------2)
-- [You Have Metadata. But Are You Actually Using It?](https://medium.com/@pinakdatta/you-have-metadata-but-are-you-actually-using-it-437b31decabb?source=rss-2d06e496565c------2)
-- [Understanding Data Freshness: Concepts, Challenges, and Practical Approaches](https://medium.com/@pinakdatta/understanding-data-freshness-concepts-challenges-and-practical-approaches-7c30c62a4121?source=rss-2d06e496565c------2)<!-- BLOG-POST-LIST:END -->
+- [You Have Metadata. But Are You Actually Using It?](https://medium.com/@pinakdatta/you-have-metadata-but-are-you-actually-using-it-437b31decabb?source=rss-2d06e496565c------2)<!-- BLOG-POST-LIST:END -->
 
 ### Tech I Use Often
 
