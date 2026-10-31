@@ -38,11 +38,11 @@ My work sits around the intersection of data platforms, developer tooling, and d
 I write about Python, data engineering, data governance, and machine learning systems.
 
 <!-- BLOG-POST-LIST:START -->
+- [The Time Zone Bug Hiding in datetime.now&lpar;&rpar;](https://medium.com/@pinakdatta/the-time-zone-bug-hiding-in-datetime-now-523c67684d2d?source=rss-2d06e496565c------2)
 - [One NULL Made This SQL Query Return Zero Rows](https://medium.com/@pinakdatta/one-null-made-this-sql-query-return-zero-rows-21631ca90848?source=rss-2d06e496565c------2)
 - [The CSV Was Correct. Excel Changed the Data.](https://medium.com/@pinakdatta/the-csv-was-correct-excel-changed-the-data-6dd240e3b7bf?source=rss-2d06e496565c------2)
 - [Some Weeks I Ran Once. I Still Came Back.](https://medium.com/@pinakdatta/some-weeks-i-ran-once-i-still-came-back-07e426cc9158?source=rss-2d06e496565c------2)
-- [Why Your SQL COUNT Doubled After a JOIN](https://medium.com/@pinakdatta/why-your-sql-count-doubled-after-a-join-1a4547ac025b?source=rss-2d06e496565c------2)
-- [The Slower Runs That Came Before My Sub-30 5K](https://medium.com/@pinakdatta/the-slower-runs-that-came-before-my-sub-30-5k-320c723e6692?source=rss-2d06e496565c------2)<!-- BLOG-POST-LIST:END -->
+- [Why Your SQL COUNT Doubled After a JOIN](https://medium.com/@pinakdatta/why-your-sql-count-doubled-after-a-join-1a4547ac025b?source=rss-2d06e496565c------2)<!-- BLOG-POST-LIST:END -->
 
 ### Tech I Use Often
 
